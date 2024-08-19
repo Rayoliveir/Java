@@ -1,0 +1,7 @@
+com\mycompany\ex_cadastro_pessoa\class_Pessoa_Juridica.class
+com\mycompany\ex_cadastro_pessoa\enum_Unidade_Federativa.class
+com\mycompany\ex_cadastro_pessoa\enum_Sexo.class
+com\mycompany\ex_cadastro_pessoa\abstract_Pessoa.class
+com\mycompany\ex_cadastro_pessoa\class_Pessoa_Fisica.class
+com\mycompany\ex_cadastro_pessoa\Ex_Cadastro_pessoa.class
+com\mycompany\ex_cadastro_pessoa\class_Endereco.class
