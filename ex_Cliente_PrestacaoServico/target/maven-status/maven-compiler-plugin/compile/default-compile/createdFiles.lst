@@ -1,0 +1,10 @@
+com\mycompany\ex_cliente_prestacaoservico\UnidadeFederativa_enum.class
+com\mycompany\ex_cliente_prestacaoservico\Ex_Cliente_PrestacaoServico.class
+com\mycompany\ex_cliente_prestacaoservico\Sexo_enum.class
+com\mycompany\ex_cliente_prestacaoservico\Cliente_class.class
+com\mycompany\ex_cliente_prestacaoservico\Fisica_class_abstract.class
+com\mycompany\ex_cliente_prestacaoservico\Estado_Civil_enum.class
+com\mycompany\ex_cliente_prestacaoservico\Juridica_class_abstract.class
+com\mycompany\ex_cliente_prestacaoservico\PrestacaoServico_class.class
+com\mycompany\ex_cliente_prestacaoservico\Endereco_class.class
+com\mycompany\ex_cliente_prestacaoservico\Pessoa_class_abstract.class
